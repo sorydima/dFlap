@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=com.flap.bird
+Exec=/usr/bin/com.flap.bird
+Name=dFlap
+Name[ru]=диФлап
+
+[X-Application]
+Permissions=Audio;Camera;Documents;Downloads;Internet;Location;MediaIndexing;Microphone;Music;NFC;Pictures;PublicDir;PushNotifications;RemovableMedia;ScreenCapture;Videos;WebView
+OrganizationName=com.flap
+ApplicationName=dflap

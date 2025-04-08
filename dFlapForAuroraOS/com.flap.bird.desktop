@@ -7,6 +7,6 @@ Name=dFlap
 Name[ru]=диФлап
 
 [X-Application]
-Permissions=Audio;Camera;Documents;Downloads;Internet;Location;MediaIndexing;Microphone;Music;NFC;Pictures;PublicDir;PushNotifications;RemovableMedia;ScreenCapture;Videos;WebView
+Permissions=Internet;WebView;
 OrganizationName=com.flap
 ApplicationName=dflap

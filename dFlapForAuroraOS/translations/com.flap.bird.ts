@@ -12,11 +12,11 @@
         <translation>About Application</translation>
     </message>
     <message>
-        <source>&lt;p&gt;The project provides an example of using WebView on the CEF engine.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;The project provides an example of using WebView on the CEF engine.&lt;/p&gt;</translation>
+        <source>&lt;p&gt;This is dFlap PWA Agent-Client for Aurora Domestic OS. Used for RuStore and REChain.Store.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;p&gt;&lt;em&gt;Copyright (c) © 2024-2025 dFlap ® 🐾&lt;/em&gt;&lt;/p&gt;</source>
+        <source>&lt;p&gt;&lt;em&gt;Welcome to Flappy Rocket, an exciting, fast-paced adventure where you control a cutting-edge space rocket. Copyright (c) © 2024-2025 dFlap ® 🐾&lt;/em&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
